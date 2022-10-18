@@ -1,5 +1,7 @@
 # Table of contents
 
-* [JAVA\_SE](README.md)
-* [Summary](Summary.md)
-* [Java快速入门](java-kuai-su-ru-men.md)
+* [Java快速入门](README.md)
+
+## Group 1
+
+* [Page 2](group-1/page-2.md)
