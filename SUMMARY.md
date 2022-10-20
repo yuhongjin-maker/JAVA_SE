@@ -32,4 +32,6 @@
 
 ## 方法
 
-* [方法定义、调用](fang-fa/fang-fa-ding-yi-tiao-yong.md)
+* [方法定义](fang-fa/fang-fa-ding-yi.md)
+* [方法的调用](fang-fa/fang-fa-de-tiao-yong.md)
+* [方法的注意事项](fang-fa/fang-fa-de-zhu-yi-shi-xiang.md)
