@@ -35,3 +35,6 @@
 * [方法定义](fang-fa/fang-fa-ding-yi.md)
 * [方法的调用](fang-fa/fang-fa-de-tiao-yong.md)
 * [方法的注意事项](fang-fa/fang-fa-de-zhu-yi-shi-xiang.md)
+* [方法的案例](fang-fa/fang-fa-de-an-li.md)
+* [方法调用的内存图](fang-fa/fang-fa-tiao-yong-de-nei-cun-tu.md)
+* [方法参数的传递机制](fang-fa/fang-fa-can-shu-de-chuan-di-ji-zhi.md)
