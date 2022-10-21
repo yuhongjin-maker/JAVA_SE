@@ -43,3 +43,4 @@
 ## 面向对象
 
 * [设计对象并使用](mian-xiang-dui-xiang/she-ji-dui-xiang-bing-shi-yong.md)
+* [内存机制](mian-xiang-dui-xiang/nei-cun-ji-zhi.md)
