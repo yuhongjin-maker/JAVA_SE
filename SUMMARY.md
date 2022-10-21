@@ -44,3 +44,7 @@
 
 * [设计对象并使用](mian-xiang-dui-xiang/she-ji-dui-xiang-bing-shi-yong.md)
 * [内存机制](mian-xiang-dui-xiang/nei-cun-ji-zhi.md)
+* [购物车案例](mian-xiang-dui-xiang/gou-wu-che-an-li.md)
+* [构造器，this](mian-xiang-dui-xiang/gou-zao-qi-this.md)
+* [封装](mian-xiang-dui-xiang/feng-zhuang.md)
+* [Javabean、综合案例](mian-xiang-dui-xiang/javabean-zong-he-an-li.md)
