@@ -6,7 +6,7 @@
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ### 方法重载的好处
 

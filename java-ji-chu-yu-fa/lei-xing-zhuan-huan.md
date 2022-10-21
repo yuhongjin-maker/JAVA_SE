@@ -10,7 +10,7 @@
 
 小范围的变量可以直接赋值给大范围类型的变量
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 #### 形式
 
