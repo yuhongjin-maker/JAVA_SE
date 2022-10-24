@@ -47,4 +47,8 @@
 * [购物车案例](mian-xiang-dui-xiang/gou-wu-che-an-li.md)
 * [构造器，this](mian-xiang-dui-xiang/gou-zao-qi-this.md)
 * [封装](mian-xiang-dui-xiang/feng-zhuang.md)
-* [Javabean、综合案例](mian-xiang-dui-xiang/javabean-zong-he-an-li.md)
+* [标准Javabean](mian-xiang-dui-xiang/biao-zhun-javabean.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
