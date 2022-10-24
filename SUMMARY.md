@@ -48,6 +48,8 @@
 * [构造器，this](mian-xiang-dui-xiang/gou-zao-qi-this.md)
 * [封装](mian-xiang-dui-xiang/feng-zhuang.md)
 * [标准Javabean](mian-xiang-dui-xiang/javabean-zong-he-an-li.md)
+* [成员变量和局部变量的区别](mian-xiang-dui-xiang/cheng-yuan-bian-liang-he-ju-bu-bian-liang-de-qu-bie.md)
+* [综合案例](mian-xiang-dui-xiang/zong-he-an-li.md)
 
 ## String, ArrayList
 
