@@ -47,8 +47,11 @@
 * [购物车案例](mian-xiang-dui-xiang/gou-wu-che-an-li.md)
 * [构造器，this](mian-xiang-dui-xiang/gou-zao-qi-this.md)
 * [封装](mian-xiang-dui-xiang/feng-zhuang.md)
-* [标准Javabean](mian-xiang-dui-xiang/biao-zhun-javabean.md)
+* [标准Javabean](mian-xiang-dui-xiang/javabean-zong-he-an-li.md)
 
-## Group 1
+## String, ArrayList
 
-* [Page 1](group-1/page-1.md)
+* [String概述、对象创建的原理](string-arraylist/string-gai-shu-dui-xiang-chuang-jian-de-yuan-li.md)
+* [String类常见面试题](string-arraylist/string-lei-chang-jian-mian-shi-ti.md)
+* [Sting类 常用API](string-arraylist/sting-lei-chang-yong-api.md)
+* [集合概述、ArrayList的使用](string-arraylist/ji-he-gai-shu-arraylist-de-shi-yong.md)
