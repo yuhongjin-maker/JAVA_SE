@@ -2,7 +2,7 @@
 
 ### 多个对象内存图
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 #### 对象放在的位置
 
@@ -18,7 +18,7 @@
 
 ### 两个对象指向同一个对象的内存图
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (3).png>)
 
 ### 垃圾回收
 
