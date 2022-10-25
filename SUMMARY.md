@@ -53,7 +53,7 @@
 
 ## String, ArrayList
 
-* [String概述、对象创建的原理](string-arraylist/string-gai-shu-dui-xiang-chuang-jian-de-yuan-li.md)
-* [String类常见面试题](string-arraylist/string-lei-chang-jian-mian-shi-ti.md)
+* [String,ArrayList简单介绍](string-arraylist/stringarraylist-jian-dan-jie-shao.md)
+* [String概述，对象创建原理](string-arraylist/string-gai-shu-dui-xiang-chuang-jian-yuan-li.md)
 * [Sting类 常用API](string-arraylist/sting-lei-chang-yong-api.md)
 * [集合概述、ArrayList的使用](string-arraylist/ji-he-gai-shu-arraylist-de-shi-yong.md)

@@ -10,7 +10,7 @@
 
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (4).png>)
 
 ### 构造器的分类和作用
 

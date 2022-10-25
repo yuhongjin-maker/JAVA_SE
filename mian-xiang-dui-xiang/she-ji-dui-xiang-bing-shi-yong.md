@@ -8,7 +8,7 @@
 
 是真实存在的具体实例
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 ### 如何创建对象
 
