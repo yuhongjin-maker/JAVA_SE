@@ -2,7 +2,7 @@
 
 ### 多个对象内存图
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (2) (1).png>)
 
 #### 对象放在的位置
 

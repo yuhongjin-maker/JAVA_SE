@@ -4,13 +4,13 @@
 
 * 定义在类中的，可以用于初始化一个类的对象，并返回对象的地址
 
-![](<../.gitbook/assets/image (1) (3).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 ### 调用构造器得到对象的格式
 
 
 
-![](<../.gitbook/assets/image (2) (4).png>)
+![](<../.gitbook/assets/image (2) (4) (1).png>)
 
 ### 构造器的分类和作用
 
