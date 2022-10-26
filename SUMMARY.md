@@ -52,6 +52,7 @@
 * [综合案例](mian-xiang-dui-xiang/zong-he-an-li.md)
 * [static: 修饰成员变量、内存机制](mian-xiang-dui-xiang/static-xiu-shi-cheng-yuan-bian-liang-nei-cun-ji-zhi.md)
 * [static: 修饰成员方法、内存机制](mian-xiang-dui-xiang/static-xiu-shi-cheng-yuan-fang-fa-nei-cun-ji-zhi.md)
+* [static: 访问的注意事项总结](mian-xiang-dui-xiang/static-fang-wen-de-zhu-yi-shi-xiang-zong-jie.md)
 
 ## String, ArrayList
 

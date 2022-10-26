@@ -21,3 +21,22 @@ ArrayList是集合的一种，它支持索引
 
 ![](<../.gitbook/assets/image (7).png>)
 
+### ArrayList类如何创建集合对象的，如何添加元素？
+
+* ArrayList list = new ArrayList();
+* public boolean add(E,e);
+* public void add(int index,E element);
+
+### 泛型概述
+
+#### ArrayList\<E>:其实就是一个泛型类，可以在编译阶段约束集合对象只能操作某种数据类型
+
+注意：集合中只能存储引用类型，不支持基本数据类型
+
+### 如何统一ArrayList集合操作的元素类型？
+
+* 使用泛型：<数据类型>
+* ArrayList\<String>list1 = new ArrayList();
+
+![](<../.gitbook/assets/image (8).png>)
+
