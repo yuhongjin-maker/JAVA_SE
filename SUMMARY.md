@@ -53,6 +53,9 @@
 * [static: 修饰成员变量、内存机制](mian-xiang-dui-xiang/static-xiu-shi-cheng-yuan-bian-liang-nei-cun-ji-zhi.md)
 * [static: 修饰成员方法、内存机制](mian-xiang-dui-xiang/static-xiu-shi-cheng-yuan-fang-fa-nei-cun-ji-zhi.md)
 * [static: 访问的注意事项总结](mian-xiang-dui-xiang/static-fang-wen-de-zhu-yi-shi-xiang-zong-jie.md)
+* [static:应用知识-工具类](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-gong-ju-lei.md)
+* [static:应用知识-代码类](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-dai-ma-lei.md)
+* [static:应用知识-单例模式](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-dan-li-mo-shi.md)
 
 ## String, ArrayList
 
