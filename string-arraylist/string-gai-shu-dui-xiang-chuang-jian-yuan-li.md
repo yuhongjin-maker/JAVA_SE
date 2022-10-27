@@ -17,7 +17,7 @@ String其实常被称为不可变字符串类型，它的对象在创建后不�
 
 ![](<../.gitbook/assets/image (2) (4).png>)
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 ### 有什么区别？
 
@@ -28,4 +28,4 @@ String其实常被称为不可变字符串类型，它的对象在创建后不�
 * 通过构造器new对象，每new一次都会产生一个新对象，在堆内存中分开储存
 *
 
-    ![](<../.gitbook/assets/image (2).png>)
+    ![](<../.gitbook/assets/image (2) (5).png>)

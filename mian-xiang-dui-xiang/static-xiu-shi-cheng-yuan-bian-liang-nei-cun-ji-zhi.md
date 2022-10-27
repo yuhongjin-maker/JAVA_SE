@@ -13,8 +13,8 @@
 
 * 实例成员变量（无static修饰，存在于每个对象中）：常表示姓名name、年龄age、等属于每个对象的信息
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ### 内存机制
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><br><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><br><br></p></figcaption></figure>
