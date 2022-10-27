@@ -56,6 +56,8 @@
 * [static:应用知识-工具类](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-gong-ju-lei.md)
 * [static:应用知识-代码类](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-dai-ma-lei.md)
 * [static:应用知识-单例模式](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-dan-li-mo-shi.md)
+* [继承：特点、访问特点、方法重写](mian-xiang-dui-xiang/ji-cheng-te-dian-fang-wen-te-dian-fang-fa-zhong-xie.md)
+* [继承：构造器特点、this、super小结](mian-xiang-dui-xiang/ji-cheng-gou-zao-qi-te-dian-thissuper-xiao-jie.md)
 
 ## String, ArrayList
 
