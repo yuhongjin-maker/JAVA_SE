@@ -9,11 +9,11 @@
 
 * 静态成员变量（有static修饰，属于类，内存中加载一次）：常表示如在线人数信息、等需要被共享的信息，可以被共享访问
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/image.png)
 
 * 实例成员变量（无static修饰，存在于每个对象中）：常表示姓名name、年龄age、等属于每个对象的信息
 
-![](<../.gitbook/assets/image (2) (4).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 ### 内存机制
 

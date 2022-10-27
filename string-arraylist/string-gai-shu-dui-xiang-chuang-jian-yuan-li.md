@@ -15,9 +15,9 @@ String其实常被称为不可变字符串类型，它的对象在创建后不�
 * String变量每次的修改其实都是产生并指向了新的字符串对象
 * 原来的字符串对象都是没有改变的，所以称不可变字符串
 
-![](<../.gitbook/assets/image (2) (4) (2).png>)
+![](<../.gitbook/assets/image (2) (4).png>)
 
-![](<../.gitbook/assets/image (3) (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ### 有什么区别？
 

@@ -15,6 +15,10 @@
 * [类型转换](java-ji-chu-yu-fa/lei-xing-zhuan-huan.md)
 * [运算符](java-ji-chu-yu-fa/yun-suan-fu.md)
 * [案例知识：键盘录入技术](java-ji-chu-yu-fa/an-li-zhi-shi-jian-pan-lu-ru-ji-shu.md)
+* [包、权限修饰符](java-ji-chu-yu-fa/bao-quan-xian-xiu-shi-fu.md)
+* [final的语法](java-ji-chu-yu-fa/final-de-yu-fa.md)
+* [常量、常量在开发中的作用](java-ji-chu-yu-fa/chang-liang-chang-liang-zai-kai-fa-zhong-de-zuo-yong.md)
+* [枚举、枚举作用](java-ji-chu-yu-fa/mei-ju-mei-ju-zuo-yong.md)
 
 ## 程序流程控制
 
@@ -67,6 +71,7 @@
 * [Sting类 常用API](string-arraylist/sting-lei-chang-yong-api.md)
 * [集合概述、ArrayList的使用](string-arraylist/ji-he-gai-shu-arraylist-de-shi-yong.md)
 
-## Group 1
+## 抽象类
 
-* [Page 1](group-1/page-1.md)
+* [概述、案例、特点](chou-xiang-lei/gai-shu-an-li-te-dian.md)
+* [模板方法模式](chou-xiang-lei/mo-ban-fang-fa-mo-shi.md)
