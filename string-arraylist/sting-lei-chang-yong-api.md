@@ -4,7 +4,7 @@
 
 字符串的内容比较不适合用"== " 比较，基本数据类型一般用"== "
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ### String常用API
 
