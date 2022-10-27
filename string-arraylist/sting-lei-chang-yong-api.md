@@ -8,4 +8,4 @@
 
 ### String常用API
 
-![](<../.gitbook/assets/image (1) (3).png>)
+![](<../.gitbook/assets/image (1) (1).png>)

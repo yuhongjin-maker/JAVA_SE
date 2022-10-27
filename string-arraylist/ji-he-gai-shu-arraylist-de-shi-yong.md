@@ -38,5 +38,5 @@ ArrayList是集合的一种，它支持索引
 * 使用泛型：<数据类型>
 * ArrayList\<String>list1 = new ArrayList();
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8).png>)
 
