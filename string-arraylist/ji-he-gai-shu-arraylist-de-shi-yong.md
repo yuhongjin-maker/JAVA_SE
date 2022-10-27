@@ -19,7 +19,7 @@
 
 ArrayList是集合的一种，它支持索引
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ### ArrayList类如何创建集合对象的，如何添加元素？
 
