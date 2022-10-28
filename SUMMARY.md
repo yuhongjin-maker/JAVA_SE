@@ -61,6 +61,8 @@
 * [继承后：构造器特点、this、super小结](mian-xiang-dui-xiang/ji-cheng-hou-gou-zao-qi-te-dian-thissuper-xiao-jie.md)
 * [包、权限修饰符](mian-xiang-dui-xiang/bao-quan-xian-xiu-shi-fu.md)
 * [final的语法](mian-xiang-dui-xiang/final-de-yu-fa.md)
+* [常量、常量在开发中的作用](mian-xiang-dui-xiang/chang-liang-chang-liang-zai-kai-fa-zhong-de-zuo-yong.md)
+* [枚举、枚举作用](mian-xiang-dui-xiang/mei-ju-mei-ju-zuo-yong.md)
 
 ## String, ArrayList
 
