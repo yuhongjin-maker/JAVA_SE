@@ -75,3 +75,8 @@
 
 * [概述、案例、特点](group-1/page-1.md)
 * [模板方法模式](chou-xiang-lei/mo-ban-fang-fa-mo-shi.md)
+
+## 接口
+
+* [概述、多实现、多继承](jie-kou/gai-shu-duo-shi-xian-duo-ji-cheng.md)
+* [新增方法、注意事项](jie-kou/xin-zeng-fang-fa-zhu-yi-shi-xiang.md)

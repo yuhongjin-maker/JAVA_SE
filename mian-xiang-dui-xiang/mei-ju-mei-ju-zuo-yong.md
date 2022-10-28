@@ -11,7 +11,7 @@
 
 ### 反编译后观察枚举的特征：
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 枚举做信息标志和分类
 
