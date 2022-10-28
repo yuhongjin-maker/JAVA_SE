@@ -23,7 +23,7 @@
 
 * 会报错。因为子类默认是调用父类无参数构造器
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### this(....)和 super(....)使用注意点
 
