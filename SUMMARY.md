@@ -15,10 +15,6 @@
 * [类型转换](java-ji-chu-yu-fa/lei-xing-zhuan-huan.md)
 * [运算符](java-ji-chu-yu-fa/yun-suan-fu.md)
 * [案例知识：键盘录入技术](java-ji-chu-yu-fa/an-li-zhi-shi-jian-pan-lu-ru-ji-shu.md)
-* [包、权限修饰符](java-ji-chu-yu-fa/bao-quan-xian-xiu-shi-fu.md)
-* [final的语法](java-ji-chu-yu-fa/final-de-yu-fa.md)
-* [常量、常量在开发中的作用](java-ji-chu-yu-fa/chang-liang-chang-liang-zai-kai-fa-zhong-de-zuo-yong.md)
-* [枚举、枚举作用](java-ji-chu-yu-fa/mei-ju-mei-ju-zuo-yong.md)
 
 ## 程序流程控制
 
@@ -63,6 +59,8 @@
 * [继承：概述](mian-xiang-dui-xiang/ji-cheng-gai-shu.md)
 * [继承：特点、访问特点、方法重写](mian-xiang-dui-xiang/ji-cheng-te-dian-fang-wen-te-dian-fang-fa-zhong-xie.md)
 * [继承后：构造器特点、this、super小结](mian-xiang-dui-xiang/ji-cheng-hou-gou-zao-qi-te-dian-thissuper-xiao-jie.md)
+* [包、权限修饰符](mian-xiang-dui-xiang/bao-quan-xian-xiu-shi-fu.md)
+* [final的语法](mian-xiang-dui-xiang/final-de-yu-fa.md)
 
 ## String, ArrayList
 
