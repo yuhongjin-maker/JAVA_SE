@@ -21,10 +21,10 @@
 * 定义一个类，把构造器私有
 * 定义一个静态变量存储一个对象
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### 懒汉单例设计模式
 
 * 在真正需要该对象的时候，才去创建一个对象（延迟加载对象）
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>

@@ -17,7 +17,7 @@ String其实常被称为不可变字符串类型，它的对象在创建后不�
 
 ![](<../.gitbook/assets/image (2) (4).png>)
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 ### 有什么区别？
 

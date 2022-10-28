@@ -15,7 +15,7 @@
 
 #### Java只支持单继承，不支持多继承
 
-Object特点
+#### Object特点
 
 * Java中所有类，要么直接继承了Object，要么默认继承了Object，要么间接继承了Object,Object是祖宗类
 

@@ -62,7 +62,7 @@
 * [static:应用知识-单例模式（Singleton）](mian-xiang-dui-xiang/static-ying-yong-zhi-shi-dan-li-mo-shi.md)
 * [继承：概述](mian-xiang-dui-xiang/ji-cheng-gai-shu.md)
 * [继承：特点、访问特点、方法重写](mian-xiang-dui-xiang/ji-cheng-te-dian-fang-wen-te-dian-fang-fa-zhong-xie.md)
-* [继承：构造器特点、this、super小结](mian-xiang-dui-xiang/ji-cheng-gou-zao-qi-te-dian-thissuper-xiao-jie.md)
+* [继承后：构造器特点、this、super小结](mian-xiang-dui-xiang/ji-cheng-hou-gou-zao-qi-te-dian-thissuper-xiao-jie.md)
 
 ## String, ArrayList
 
@@ -73,5 +73,5 @@
 
 ## 抽象类
 
-* [概述、案例、特点](chou-xiang-lei/gai-shu-an-li-te-dian.md)
+* [概述、案例、特点](group-1/page-1.md)
 * [模板方法模式](chou-xiang-lei/mo-ban-fang-fa-mo-shi.md)

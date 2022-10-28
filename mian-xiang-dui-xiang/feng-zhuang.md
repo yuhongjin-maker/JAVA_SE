@@ -18,4 +18,4 @@
 
 
 
-![](<../.gitbook/assets/image (3) (1) (2).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
