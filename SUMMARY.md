@@ -69,14 +69,30 @@
 * [String,ArrayList简单介绍](string-arraylist/stringarraylist-jian-dan-jie-shao.md)
 * [String概述，对象创建原理](string-arraylist/string-gai-shu-dui-xiang-chuang-jian-yuan-li.md)
 * [Sting类 常用API](string-arraylist/sting-lei-chang-yong-api.md)
-* [集合概述、ArrayList的使用](string-arraylist/ji-he-gai-shu-arraylist-de-shi-yong.md)
 
 ## 抽象类
 
 * [概述、案例、特点](group-1/page-1.md)
-* [模板方法模式（template method）](chou-xiang-lei/mo-ban-fang-fa-mo-shi-template-method.md)
+* [模板方法模式（template method）](chou-xiang-lei/mo-ban-fang-fa-mo-shi.md)
 
 ## 接口
 
 * [概述、多实现、多继承](jie-kou/gai-shu-duo-shi-xian-duo-ji-cheng.md)
 * [新增方法、注意事项](jie-kou/xin-zeng-fang-fa-zhu-yi-shi-xiang.md)
+
+## 多态
+
+* [多态的概述、优势、类型转换问题](duo-tai/duo-tai-de-gai-shu-you-shi-lei-xing-zhuan-huan-wen-ti.md)
+* [综合案例](duo-tai/zong-he-an-li.md)
+* [内部类](duo-tai/nei-bu-lei.md)
+* [匿名内部类](duo-tai/ni-ming-nei-bu-lei.md)
+* [常用API](duo-tai/chang-yong-api.md)
+
+## 常见算法
+
+* [Page 1](chang-jian-suan-fa/page-1.md)
+
+## 集合
+
+* [集合概述、ArrayList的使用](ji-he/ji-he-gai-shu-arraylist-de-shi-yong.md)
+* [Page 2](ji-he/page-2.md)
