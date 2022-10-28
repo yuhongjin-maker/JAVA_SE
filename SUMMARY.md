@@ -74,7 +74,7 @@
 ## 抽象类
 
 * [概述、案例、特点](group-1/page-1.md)
-* [模板方法模式](chou-xiang-lei/mo-ban-fang-fa-mo-shi.md)
+* [模板方法模式（template method）](chou-xiang-lei/mo-ban-fang-fa-mo-shi-template-method.md)
 
 ## 接口
 
