@@ -21,7 +21,7 @@
 * 定义一个类，把构造器私有
 * 定义一个静态变量存储一个对象
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 懒汉单例设计模式
 
