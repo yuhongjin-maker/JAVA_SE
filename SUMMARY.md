@@ -63,6 +63,9 @@
 * [final的语法](mian-xiang-dui-xiang/final-de-yu-fa.md)
 * [常量、常量在开发中的作用](mian-xiang-dui-xiang/chang-liang-chang-liang-zai-kai-fa-zhong-de-zuo-yong.md)
 * [枚举、枚举作用](mian-xiang-dui-xiang/mei-ju-mei-ju-zuo-yong.md)
+* [多态](mian-xiang-dui-xiang/duo-tai.md)
+* [内部类](mian-xiang-dui-xiang/nei-bu-lei.md)
+* [常用API](mian-xiang-dui-xiang/chang-yong-api.md)
 
 ## String, ArrayList
 
@@ -79,14 +82,6 @@
 
 * [概述、多实现、多继承](jie-kou/gai-shu-duo-shi-xian-duo-ji-cheng.md)
 * [新增方法、注意事项](jie-kou/xin-zeng-fang-fa-zhu-yi-shi-xiang.md)
-
-## 多态
-
-* [多态的概述、优势、类型转换问题](duo-tai/duo-tai-de-gai-shu-you-shi-lei-xing-zhuan-huan-wen-ti.md)
-* [综合案例](duo-tai/zong-he-an-li.md)
-* [内部类](duo-tai/nei-bu-lei.md)
-* [匿名内部类](duo-tai/ni-ming-nei-bu-lei.md)
-* [常用API](duo-tai/chang-yong-api.md)
 
 ## 常见算法
 
