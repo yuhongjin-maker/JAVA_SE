@@ -3,7 +3,7 @@
 ### 什么是继承？
 
 * Java中提供一个关键字extends, 用这个关键字，我们可以让一个类和另一个类建立起父子关系
-* ![](<../.gitbook/assets/image (11).png>)
+* ![](<../.gitbook/assets/image (11) (1).png>)
 * Student称为子类，People称为父类
 * 作用：当子类继承父类后，就可以直接使用父类公共属性和方法了
 
