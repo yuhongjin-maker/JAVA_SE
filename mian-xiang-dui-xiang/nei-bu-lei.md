@@ -4,7 +4,7 @@
 
 * 内部类就是定义在一个类里面的类，里面的类可以理解成（寄生），外部类可以理解成（宿主）
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (3).png>)
 
 ### 内部类的使用场景、作用
 
@@ -20,7 +20,7 @@
 * 它的特点和使用与普通类是完全一样的，类有成分它都有，只是位置在别人里面而已
 * 可以直接访问外部类的静态成员，不能直接访问外部类的实例成员
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@
 
 ![](<../.gitbook/assets/image (10).png>)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 局部内部类
 
@@ -45,7 +45,7 @@
 * 本质上是一个没有名字的局部内部类，定义在方法中、代码块中、等。
 * 作用：方便创建子类对象，最终目的为了简化代码编写
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 #### 匿名内部类常见使用形式
 

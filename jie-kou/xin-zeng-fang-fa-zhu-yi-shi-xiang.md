@@ -9,14 +9,14 @@
 * 类似之前写的普通实例方法：必须用default修饰
 * 默认会public修饰。需要用接口的实现类的对象来调用
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 第二种：静态方法
 
 * 默认会public修饰，必须有static修饰
 * 注意：接口的静态方法必须用本身的接口名来调用
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 第三种：私有方法
 
