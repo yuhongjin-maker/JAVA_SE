@@ -12,7 +12,7 @@
 
 ### 其他定义格式
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 注意：方法没有结果数据需要返回，返回值类型声明为：void
 

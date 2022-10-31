@@ -9,7 +9,7 @@
 * 类似之前写的普通实例方法：必须用default修饰
 * 默认会public修饰。需要用接口的实现类的对象来调用
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 第二种：静态方法
 
@@ -23,7 +23,7 @@
 * 就是私有的实例方法：必须使用private 修饰，从JDK1.9才开始有的
 * 只能在本类中被其他的默认方法或者私有方法访问
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 注意事项
 

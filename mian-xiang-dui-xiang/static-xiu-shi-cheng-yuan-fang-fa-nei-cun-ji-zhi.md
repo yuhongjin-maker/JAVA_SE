@@ -10,4 +10,4 @@
 
 静态方法先加载，等有对象后实例方法才加载
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
