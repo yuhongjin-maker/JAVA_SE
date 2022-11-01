@@ -89,6 +89,9 @@
 * [JDK8后新增的日期类](chang-jian-suan-fa-lambda-chang-yong-api/jdk8-hou-xin-zeng-de-ri-qi-lei.md)
 * [包装类](chang-jian-suan-fa-lambda-chang-yong-api/bao-zhuang-lei.md)
 * [正则表达式](chang-jian-suan-fa-lambda-chang-yong-api/zheng-ze-biao-da-shi.md)
+* [Arrays](chang-jian-suan-fa-lambda-chang-yong-api/arrays.md)
+* [选择排序、二分查找](chang-jian-suan-fa-lambda-chang-yong-api/xuan-ze-pai-xu-er-fen-cha-zhao.md)
+* [Lambda表达式](chang-jian-suan-fa-lambda-chang-yong-api/lambda-biao-da-shi.md)
 
 ## 集合
 
