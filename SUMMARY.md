@@ -96,4 +96,17 @@
 ## 集合
 
 * [集合概述、ArrayList的使用](ji-he/ji-he-gai-shu-arraylist-de-shi-yong.md)
-* [Page 2](ji-he/page-2.md)
+* [Collection集合的体系特点](ji-he/collection-ji-he-de-ti-xi-te-dian.md)
+* [Collection 常见API、遍历方式、存储自定义类型的对象](ji-he/collection-chang-jian-api-bian-li-fang-shi-cun-chu-zi-ding-yi-lei-xing-de-dui-xiang.md)
+* [List系列集合](ji-he/list-xi-lie-ji-he.md)
+* [集合的并发修改异常问题](ji-he/ji-he-de-bing-fa-xiu-gai-yi-chang-wen-ti.md)
+* [泛型深入](ji-he/fan-xing-shen-ru.md)
+
+## 常见数据结构
+
+* [数据结构概述、栈、队列](chang-jian-shu-ju-jie-gou/shu-ju-jie-gou-gai-shu-zhan-dui-lie.md)
+* [数组](chang-jian-shu-ju-jie-gou/shu-zu.md)
+* [链表](chang-jian-shu-ju-jie-gou/lian-biao.md)
+* [二叉树、二叉查找树](chang-jian-shu-ju-jie-gou/er-cha-shu-er-cha-cha-zhao-shu.md)
+* [平衡二叉树](chang-jian-shu-ju-jie-gou/ping-heng-er-cha-shu.md)
+* [红黑树](chang-jian-shu-ju-jie-gou/hong-hei-shu.md)
