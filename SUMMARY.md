@@ -81,11 +81,11 @@
 * [概述、多实现、多继承](jie-kou/gai-shu-duo-shi-xian-duo-ji-cheng.md)
 * [新增方法、注意事项](jie-kou/xin-zeng-fang-fa-zhu-yi-shi-xiang.md)
 
-## 常见算法
+## 常见算法,Lambda,常用API
 
-* [Page 1](chang-jian-suan-fa/page-1.md)
-* [Sting类 常用API](chang-jian-suan-fa/sting-lei-chang-yong-api.md)
-* [常用API](chang-jian-suan-fa/chang-yong-api.md)
+* [Sting类 常用API](chang-jian-suan-fa-lambda-chang-yong-api/sting-lei-chang-yong-api.md)
+* [常用API](chang-jian-suan-fa-lambda-chang-yong-api/chang-yong-api.md)
+* [Page 1](chang-jian-suan-fa-lambda-chang-yong-api/page-1.md)
 
 ## 集合
 
