@@ -65,13 +65,11 @@
 * [枚举、枚举作用](mian-xiang-dui-xiang/mei-ju-mei-ju-zuo-yong.md)
 * [多态](mian-xiang-dui-xiang/duo-tai.md)
 * [内部类](mian-xiang-dui-xiang/nei-bu-lei.md)
-* [常用API](mian-xiang-dui-xiang/chang-yong-api.md)
 
 ## String, ArrayList
 
 * [String,ArrayList简单介绍](string-arraylist/stringarraylist-jian-dan-jie-shao.md)
 * [String概述，对象创建原理](string-arraylist/string-gai-shu-dui-xiang-chuang-jian-yuan-li.md)
-* [Sting类 常用API](string-arraylist/sting-lei-chang-yong-api.md)
 
 ## 抽象类
 
@@ -86,6 +84,8 @@
 ## 常见算法
 
 * [Page 1](chang-jian-suan-fa/page-1.md)
+* [Sting类 常用API](chang-jian-suan-fa/sting-lei-chang-yong-api.md)
+* [常用API](chang-jian-suan-fa/chang-yong-api.md)
 
 ## 集合
 
