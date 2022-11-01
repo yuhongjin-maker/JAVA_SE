@@ -12,3 +12,25 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-01 at 6.18.47 PM.png" alt=""><figcaption></figcaption></figure>
 
+```
+// Code for binarysearch
+public static int binarys(int[] arr,int c1) {   
+                                                
+    int left =0;                                
+    int right = arr.length-1;                   
+                                                
+    while (left<=right){                        
+        int index = (left+right)/2;             
+        if (arr[index] > c1){                   
+            right = index-1;                    
+        }else if(arr[index] < c1){              
+            left = index+1;                     
+        }                                       
+         else{                                  
+            System.out.println(left);           
+            System.out.println(right);          
+            return index;                       
+        }                                       
+    }                                           
+    return -1;                                  
+```
