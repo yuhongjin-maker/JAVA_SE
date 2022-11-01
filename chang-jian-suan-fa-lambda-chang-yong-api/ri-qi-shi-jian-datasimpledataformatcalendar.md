@@ -47,3 +47,6 @@
 * 代表了系统此刻日期对应的日历对象
 * 是一个抽象类，不能直接创建对象
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-01 at 3.45.37 PM.png" alt=""><figcaption></figcaption></figure>
+
+#### 注意：日历是可变对象，一旦修改后其对象本身表示的时间将产生变化
