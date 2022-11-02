@@ -100,7 +100,7 @@
 * [Collection 常见API、遍历方式、存储自定义类型的对象](ji-he/collection-chang-jian-api-bian-li-fang-shi-cun-chu-zi-ding-yi-lei-xing-de-dui-xiang.md)
 * [List系列集合](ji-he/list-xi-lie-ji-he.md)
 * [集合的并发修改异常问题](ji-he/ji-he-de-bing-fa-xiu-gai-yi-chang-wen-ti.md)
-* [泛型深入](ji-he/fan-xing-shen-ru.md)
+* [泛型](ji-he/fan-xing.md)
 
 ## 常见数据结构
 
