@@ -26,4 +26,16 @@ while(it.hasNext()){
 
 #### 方法二：foreach/增强for循环
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-02 at 3.37.31 AM.png" alt=""><figcaption></figcaption></figure>
+
+#### 增强遍历既可以遍历集合也可以遍历数组
+
 #### 方法三：lambda表达式
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-02 at 3.41.29 AM.png" alt=""><figcaption></figcaption></figure>
+
+### 内存机制
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-02 at 3.49.09 AM.png" alt=""><figcaption></figcaption></figure>
+
+#### 集合存储的是元素的地址
