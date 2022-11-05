@@ -19,7 +19,7 @@
 * HashSet集合底层采取哈希表存储的数据结构
 * 哈希表是一种对于增删改查数据性能都较好的结构
 
-### LinkedHashSet123
+### LinkedHashSet
 
 *
 
