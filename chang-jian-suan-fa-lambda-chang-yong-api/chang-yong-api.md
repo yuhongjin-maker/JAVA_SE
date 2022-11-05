@@ -39,7 +39,7 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-10-31 at 7.06.14 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-10-31 at 7.15.05 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-31 at 7.15.05 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### BigDecimal
 
