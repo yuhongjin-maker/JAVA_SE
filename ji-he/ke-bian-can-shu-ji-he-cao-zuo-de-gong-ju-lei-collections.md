@@ -28,4 +28,14 @@ public static void sum(int...nums){
 1. 一个形参列表中可变参数只能有一个
 2. 可变参数必须泛在形参列表的最后面
 
+### Collections集合工具类
+
+* java.utils.Collections是集合工具类
+* 作用：Collections并不属于集合，是用来操作集合的工具类
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 1.53.41 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 1.53.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
