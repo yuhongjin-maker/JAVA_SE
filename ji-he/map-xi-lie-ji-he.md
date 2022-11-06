@@ -34,6 +34,15 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 3.48.30 PM.png" alt=""><figcaption></figcaption></figure>
 
+### Map集合的遍历方式一：键找值
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 3.56.57 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Map集合的遍历方式二：键值对
+
+### Map集合比那里方式三：lambda表达式
+
+
 
 
 
