@@ -10,3 +10,8 @@
 
 * Collection集合的格式:[元素1，元素2，元素3....]
 * Map集合完整格式：{key1=value1,key2=value2,key3=value3,...}
+
+### Map集合体系
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 3.39.11 PM.png" alt=""><figcaption></figcaption></figure>
+
