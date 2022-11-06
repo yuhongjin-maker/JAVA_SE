@@ -104,6 +104,7 @@
 * [Set系列集合](ji-he/set-xi-lie-ji-he.md)
 * [Map系列集合](ji-he/map-xi-lie-ji-he.md)
 * [可变参数、集合操作的工具类Collections](ji-he/ke-bian-can-shu-ji-he-cao-zuo-de-gong-ju-lei-collections.md)
+* [集合的嵌套](ji-he/ji-he-de-qian-tao.md)
 
 ## 常见数据结构
 
