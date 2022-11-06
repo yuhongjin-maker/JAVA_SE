@@ -46,6 +46,23 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 4.38.40 PM.png" alt=""><figcaption></figcaption></figure>
 
+### HashMap特点
+
+* HashMap是Map里面的一个实现类。特点都是由键决定的：无序、不重复、无索引
+* 没有额外需要学习的特定方法，直接使用Map里面的方法就可以了
+* HashMap跟HashSet底层原理是一模一样的，都是哈希表结构，只是HashMap的每个元素包含两个值而已
+
+#### 实际上Set系列集合的底层就是Map实现的，只是Set集合中的元素只要键数据，不要值数据而已
+
+～～～
+// Some Code
+public HashSet(){
+  
+  map = new HashMap<>();
+  
+}
+～～～
+
 
 
 
