@@ -104,7 +104,7 @@
 * [Set系列集合](ji-he/set-xi-lie-ji-he.md)
 * [Map系列集合](ji-he/map-xi-lie-ji-he.md)
 * [可变参数、集合操作的工具类Collections](ji-he/ke-bian-can-shu-ji-he-cao-zuo-de-gong-ju-lei-collections.md)
-* [集合的嵌套](ji-he/ji-he-de-qian-tao.md)
+* [不可变集合](ji-he/bu-ke-bian-ji-he.md)
 
 ## 常见数据结构
 
@@ -115,6 +115,17 @@
 * [平衡二叉树](chang-jian-shu-ju-jie-gou/ping-heng-er-cha-shu.md)
 * [红黑树](chang-jian-shu-ju-jie-gou/hong-hei-shu.md)
 
-## Group 1
+## Stream流
 
-* [Page 1](<group-1/page-1 (1).md>)
+* [Stream流体系](stream-liu/page-1-1.md)
+
+## 异常体系
+
+* [异常概述、分类、认识](yi-chang-ti-xi/yi-chang-gai-shu-fen-lei-ren-shi.md)
+* [异常的处理机制](yi-chang-ti-xi/yi-chang-de-chu-li-ji-zhi.md)
+* [异常的强大演示、自定义异常](yi-chang-ti-xi/yi-chang-de-qiang-da-yan-shi-zi-ding-yi-yi-chang.md)
+
+## 日志框架
+
+* [日志概述、日志技术体系](ri-zhi-kuang-jia/ri-zhi-gai-shu-ri-zhi-ji-shu-ti-xi.md)
+* [Logback日志框架、日志级别设置](ri-zhi-kuang-jia/logback-ri-zhi-kuang-jia-ri-zhi-ji-bie-she-zhi.md)
