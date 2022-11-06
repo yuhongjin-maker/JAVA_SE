@@ -42,10 +42,13 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 4.06.36 PM.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
 ### Map集合比那里方式三：lambda表达式
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 4.38.40 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 
 
