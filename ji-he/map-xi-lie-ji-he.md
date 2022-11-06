@@ -54,14 +54,14 @@
 
 #### 实际上Set系列集合的底层就是Map实现的，只是Set集合中的元素只要键数据，不要值数据而已
 
-～～～
+```
 // Some Code
 public HashSet(){
   
   map = new HashMap<>();
   
 }
-～～～
+```
 
 
 
