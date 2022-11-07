@@ -11,4 +11,5 @@
 
 ## 异常体系
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-07 at 2.48.33 PM.png" alt=""><figcaption></figcaption></figure>
 
