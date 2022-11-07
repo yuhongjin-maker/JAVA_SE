@@ -1,6 +1,6 @@
 # 异常概述、分类、认识
 
-## 异常概述、体系
+## 异常概述
 
 * 异常是程序在“编译”或者“执行”的过程中可能出现的问题，注意：语法错误不算在异常体系中
 * 比如：数组索引越界、空指针异常、日期格式化异常，等.....
@@ -13,3 +13,8 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-07 at 2.48.33 PM.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-07 at 2.51.54 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 常见运行时异常
