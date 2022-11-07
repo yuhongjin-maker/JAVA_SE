@@ -21,12 +21,26 @@
 
 
 
-
-
-
 ## Stream流的常用API
 
-## Stream流的综合应用
+* 中间方法也称为非终结方法，调用完成后返回新的Stream流可以继续使用，支持链式编程
+* 在Stream流中无法直接修改集合、数组中的数据
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 6.33.47 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 6.49.55 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 收集Stream流
+
+* 收集Stream流的含义：就是把Stream流操作后的结果数据转回到集合或者数组中去
+
+* Stream流：方便操作集合/数组的手段
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-06 at 7.24.06 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
