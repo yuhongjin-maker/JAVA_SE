@@ -27,4 +27,4 @@
 
 * 在真正需要该对象的时候，才去创建一个对象（延迟加载对象）
 
-<figure><img src="../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
