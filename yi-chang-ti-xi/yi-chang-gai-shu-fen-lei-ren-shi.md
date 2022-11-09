@@ -31,3 +31,19 @@
 * 类型转换异常：ClassCastException
 * 数字转换异常：NumberFormatException
 #### 运行时异常：一般是指程序员业务没有考虑好或者是编程逻辑不严谨引起的程序错误
+
+### 编译时异常
+* 不是RuntimeException或者子类的异常，编译阶段就报错。
+* 作用：是担心程序员的技术不行，在编译阶段就爆出一个错误，目的在于提醒不要出错
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-09 at 11.40.13 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 异常的默认处理流程
+
+1. 默认会在出现异常的代码那里自动的创建一个异常对象：ArithmeticException
+2. 异常会从方法中出现的点这里抛出给调用者，调用者最终抛出给JVM虚拟机
+3. 虚拟机接收到异常对象后，先在控制台直接输出异常栈信息数据
+4. 直接从当前执行的异常带你干掉当前程序
+5. 后续代码没有机会运行了
