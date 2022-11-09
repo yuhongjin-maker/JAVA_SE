@@ -8,4 +8,4 @@ API （Application Programming interface） API文档下载：http://www.oracle.
 
 * import java.util.Scanner
 * Scanner sc = new Scanner(System.in)
-* sc.nextint()、sc.next()
+* sc.nextInt()、sc.next()
