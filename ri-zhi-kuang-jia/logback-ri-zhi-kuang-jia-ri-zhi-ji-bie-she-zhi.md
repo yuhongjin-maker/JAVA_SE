@@ -31,4 +31,27 @@
 ### 输出到控制台的配置标志
   
 ```
+<appender name = "CONSOLE" class= "ch.qos.logback.core.ConsoleAppender">
+```
+
+### 输出到系统文件的配置标志
+
+```
+<appender name = "FILE" class= "ch.qos.logback.core.rolling.RollingFileAppender">
+```
+
+
+## 日志级别
+* 级别程度依次是：TRACE < DEBUG < INFO < WARN < ERROR；
+* 默认级别是debug（忽略大小写）对应其方法
+* 作用：用于控制系统中哪些日志级别是可以输出的，只输出级别不低于设定级别的日志信息
+* ALL和OFF分别时打开全部日志信息，及关闭全部日志信息
+
+
+```
+//具体在<root level= "INFO"> 标签的level属性中设置日志级别
+<root level = "INFO">
+  <appender-ref ref = "CONSOLE"/>
+  <appender-ref ref = "FILE"/>
+</root>
 ```
