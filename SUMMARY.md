@@ -132,7 +132,8 @@
 
 ## File
 
-* [File类常用方法](file/file-lei-chang-yong-fang-fa.md)
+* [File类概述](file/file-lei-chang-yong-fang-fa.md)
+* [File类的常用API](file/file-lei-de-chang-yong-api.md)
 
 ## 方法递归
 
@@ -142,4 +143,7 @@
 ## IO流
 
 * [字符集](io-liu/zi-fu-ji.md)
-* [Page 1](io-liu/page-1.md)
+* [IO流概述](io-liu/page-1.md)
+* [字节流的使用](io-liu/zi-jie-liu-de-shi-yong.md)
+* [资源释放的方式](io-liu/zi-yuan-shi-fang-de-fang-shi.md)
+* [字符流的使用](io-liu/zi-fu-liu-de-shi-yong.md)
