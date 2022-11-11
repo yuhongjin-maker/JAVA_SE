@@ -41,3 +41,12 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-10 at 10.02.42 PM.png" alt=""><figcaption></figcaption></figure>
 
+```
+//编码：把文字转成字节（用指定的编码）
+String name  = "abc我爱你";
+byte[] bytes = name.getBytes("UTF-8")
+
+//解码：把字节转换成对应的中文形式（编码前和编码后字符集必须一致，否则乱码）
+String rs = new String(bytes);//默认的UTF-8
+```
+
