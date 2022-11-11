@@ -38,4 +38,26 @@ while ((len = fr.read(buffer))!= -1){
 ```
 
 ## 文件字符输出流
+
+* 字符输出流
+## 文件字符输出流
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 5.41.26 PM.png" alt=""><figcaption></figcaption></figure>
+
+```
+//创建一个字符输出流管道与目标文件接通
+Writer fw = new FileWrite("src/data.txt");
+
+//写一个字符出去
+fw.write('a');
+
+//写一个字符串出去
+fw.write("啦啦啦")；
+
+//写字符串的一部分出去
+fw.write("啦啦啦"，0，2)；
+
+//关闭流
+fw.close();
+
+```
  
