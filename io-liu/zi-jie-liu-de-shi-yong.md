@@ -45,6 +45,30 @@ String s = new String(buffer)
 ## 文件字节输出流：FileOutputStream
 ### 写字节数据到文件
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-10 at 10.56.27 PM.png" alt=""><figcaption></figcaption></figure>
+* 字节输出流实现写出去的数据能换行 -> os.write("\r\n".getBytes())
+* flush()刷新数据 -> 让写出去的数据能成功生效
+* close()方法是关闭流，关闭包含刷新，关闭后流就不可以继续使用了
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 4.29.53 PM.png" alt=""><figcaption></figcaption></figure>
+
+```
+//创建一个文件字节输出流管道与目标文件接通，在文件后追加内容，如果要清空再写不加true即可
+OUtputStream os = new FileOutputStram("file/src/data.txt",true);
+
+//写数据
+os.write('a');
+
+//刷新数据
+os.flush();
+
+//释放资源，包含了刷新
+os.close();
+```
+
+## 文件拷贝
+
+* 字节流适合
+## 文件拷贝
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 4.42.40 PM.png" alt=""><figcaption></figcaption></figure>
 
