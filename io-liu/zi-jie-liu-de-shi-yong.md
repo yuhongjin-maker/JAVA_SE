@@ -67,8 +67,7 @@ os.close();
 
 ## 文件拷贝
 
-* 字节流适合
-## 文件拷贝
+* 字节流适合做一切文件数据的拷贝因为任何文件的底层都是字节，拷贝是一字不漏的转移字节，只要前后文件格式、编码一致没有任何问题
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 4.42.40 PM.png" alt=""><figcaption></figcaption></figure>
 
