@@ -39,8 +39,8 @@ while ((len = fr.read(buffer))!= -1){
 
 ## 文件字符输出流
 
-* 字符输出流
-## 文件字符输出流
+* 字符输出流实现写出的数据能换行 -> fw.write("\r\n");
+
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 5.41.26 PM.png" alt=""><figcaption></figcaption></figure>
 
 ```
@@ -60,4 +60,10 @@ fw.write("啦啦啦"，0，2)；
 fw.close();
 
 ```
+
+## 字节流、字符流如何选择使用
+
+* 字节流适合做一切文件数据的拷贝（音视频、文本）
+* 字节流不适合读取中文内容输出
+* 字符流适合做文本文件的操作（读，写）
  
