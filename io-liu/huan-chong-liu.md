@@ -29,3 +29,31 @@
  
 ```
 
+## 字符缓冲输入流
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 8.39.21 PM.png" alt=""><figcaption></figcaption></figure>
+
+```
+// 创建一个文件字符输入流与源文件接通
+Reader fr = new FileReader("src/data.txt");
+
+//把低级的字符输入流包装成缓冲字符输入流
+BufferedReader br = new BufferedReader(fr);
+
+//行读
+String line = br.readLine();
+```
+
+## 字符缓冲输出流
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-11 at 8.45.08 PM.png" alt=""><figcaption></figcaption></figure>
+
+```
+Writer fw=  new FileWrite("src/data.txt");
+BufferedSriter bw = BUfferedWriter(fw);
+
+// 换行
+bw.newLine();
+   
+```
+
