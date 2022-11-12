@@ -2,7 +2,7 @@
 
 ## 什么是线程
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-12 at 12.42.48 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-12 at 10.58.02 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## 多线程是什么？
 * 多线程是指从软硬件上实现多条执行流程的技术
@@ -116,6 +116,13 @@ t.start();
 2. 把线程任务对象交给Thread处理
 3. 调用Thread的start方法启动线程，执行任务
 4. 线程执行完毕后、通过FutureTask的get方法去获取任务执行的结果
+
+### 优缺点
+
+* 优点：线程任务类只是实现接口，可以继续继承类和实现接口，扩展性强而且可以在线程执行完毕后去获取线程执行的结果
+* 缺点：编码复杂一点
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-12 at 11.57.15 AM.png" alt=""><figcaption></figcaption></figure>
 
 ```
 //创建Callable任务对象
