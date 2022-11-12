@@ -110,6 +110,43 @@ t.start();
 ## 方法三：实现Callable接口
 
 ### 多线程的实现方案三：利用Callable、FuntureTask接口实现
-1. 得到
-```任务
+1. 得到任务对象
+* 定义类实现Callable接口，重写call方法，封装要做的事情
+* 用FutureTask把Callable对象封装成线程任务对象
+2. 把线程任务对象交给Thread处理
+3. 调用Thread的start方法启动线程，执行任务
+4. 线程执行完毕后、通过FutureTask的get方法去获取任务执行的结果
+
+```
+//创建Callable任务对象
+Callable<String> call = new MyCallable(100);
+
+// 把Callable任务对象交给FutureTask对象
+//FutureTask对象的作用：是Runnable的对象可以交给Thread而且可以在线程执行完毕之后调用其get方法得到执行完结果
+
+FutureTask<String> f1 = new FitireTask<>(call);
+
+Thread t1= new Thread(f1);
+
+t1.start();
+
+//拿线程执行结果
+String s = f1.get();
+
+```
+
+```
+//定义一个任务类，实现Callable接口 应该声明线程任务执行完毕后的结果的数据类型
+class MyCallable implements Callable<String>{
+  private int n;
+  public MyCallable(int n){
+    this.n=n;
+  }
+
+  //重写call方法
+  @Override
+  public String call() throws Exception{
+    return "";
+  }
+}
 ```
