@@ -64,13 +64,23 @@ String ts = f1.get();
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 11.55.27 AM.png" alt=""><figcaption></figcaption></figure>
 
 ```
- //创建
+ //创建固定线程数据的线程池
+ ExecutorService pool = Executors.newFixedThreadPool(3);
+ 
+ pool.execute(new MyRunnable());
+ pool.execute(new MyRunnable());
+ pool.execute(new MyRunnable());
+ //已经没有多余线程了
+ pool.execute(new MyRunnable());
  ```
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 11.55.27 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 12.03.10 PM.png" alt=""><figcaption></figcaption></figure>
 
+### Executors工具类底层是基于线程池ExecutorService的实现类：ThreadPoolExecutor
 
-  
-  
+### Executors十分适合做大型互联网场景的线程池方案？
+
+* 不适合
+* 建议使用ThreadPoolExecutor来指定线程池参数，这样可以明确线程池的运行规则，规避资源耗尽的风险
  
  
  
