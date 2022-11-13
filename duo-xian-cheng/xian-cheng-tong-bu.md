@@ -26,7 +26,7 @@
 
 ## 方法二：同步方法
 
-* 作用：把出现线程安全问题的核心方法给上锁
+* 作用：把出现线程安全问题的核心方法使用synchronized修饰
 * 原理：每次只能一个线程进入，执行完毕以后自动解锁，其他线程才可以进来执行
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-12 at 10.46.50 PM.png" alt=""><figcaption></figcaption></figure>
@@ -36,5 +36,14 @@
 * 同步方法其实底层也是有隐式锁对象的，只能锁的范围是整个方法代码
 * 如果方法是实例方法：同步方法默认用this作为锁的对象。但是代码要高度面向对象
 * 如果方法是静态方法：同步方法默认用类名.class作为的锁对象
-* 同步
+* 同步代码块锁的范围更小，同步方法锁的范围更大
+
+
+## 方法三：lock锁
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-12 at 10.53.06 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
