@@ -59,3 +59,19 @@ Futrue<String> f1 = pool.submit(new MyCallable(100));
 String ts = f1.get();
  ```
  
+## Executors得到线程池对象的常用方法
+ 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 11.55.27 AM.png" alt=""><figcaption></figcaption></figure>
+
+```
+ //创建
+ ```
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 11.55.27 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+  
+  
+ 
+ 
+ 
+ 
