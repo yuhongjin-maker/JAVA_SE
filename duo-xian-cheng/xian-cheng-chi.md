@@ -26,3 +26,24 @@
 
 ## 线程池处理Runnable任务
 
+ <figure><img src="../.gitbook/assets/Screen Shot 2022-11-12 at 11.49.48 PM.png" alt=""><figcaption></figcaption></figure>
+
+```
+//自定义一个线程池对象，并测试其特性
+ExecutorService pool = new ThreadPoolExecutor(3,5,6,TimeUnit.SECONDS,new ArrayBlockingQueue<>(5),Executors.defaultThreadFactory(),new ThreadPoolExecutor.AbortPolicy());
+
+//给任务线程池处理
+
+Runnable target=new MyRunnable();
+pool.execute(target);
+
+//关闭线程池（开发中一般不使用）
+pool.shutdownNow();//立即关闭，即使任务没有完成，会丢失任务的
+
+```
+
+ <figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 11.43.50 AM.png" alt=""><figcaption></figcaption></figure>
+ 
+ 
+## 线程池处理Callable任务
+
