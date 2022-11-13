@@ -47,3 +47,15 @@ pool.shutdownNow();//立即关闭，即使任务没有完成，会丢失任务�
  
 ## 线程池处理Callable任务
 
+ <figure><img src="../.gitbook/assets/Screen Shot 2022-11-13 at 11.47.13 AM.png" alt=""><figcaption></figcaption></figure>
+ 
+ ```
+ //自定义一个线程池对象，并测试其特性
+ExecutorService pool = new ThreadPoolExecutor(3,5,6,TimeUnit.SECONDS,new ArrayBlockingQueue<>(5),Executors.defaultThreadFactory(),new ThreadPoolExecutor.AbortPolicy());
+
+//给任务线程池处理
+Futrue<String> f1 = pool.submit(new MyCallable(100));
+
+String ts = f1.get();
+ ```
+ 
