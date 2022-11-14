@@ -16,7 +16,7 @@
 * 默认会public修饰，必须有static修饰
 * 注意：接口的静态方法必须用本身的接口名来调用
 
-<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 第三种：私有方法
 
