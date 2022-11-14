@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // 一发一收客户端
@@ -37,3 +37,19 @@ InputStream is = socket.getInputStream();
 BufferedReader br = new BUfferedReader(new InputStreamReader(is));
 
 ```
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## 如何实现
+
+* 主线程定义了循环负责接受客户端Socket管道连接
+* 每接收到一个Socket通信管道后分配一个独立的线程负责处理它
+
+## 线程池优化
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### 线程池优势
+
+* 服务端可以复用线程处理多个客户端，可以避免系统瘫痪
+* 适合客户端通信时长较短的场景
