@@ -17,4 +17,4 @@
 
 ### 内存机制
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><br><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p><br><br></p></figcaption></figure>
