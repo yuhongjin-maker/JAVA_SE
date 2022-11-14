@@ -23,7 +23,7 @@
 * 就是私有的实例方法：必须使用private 修饰，从JDK1.9才开始有的
 * 只能在本类中被其他的默认方法或者私有方法访问
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 注意事项
 

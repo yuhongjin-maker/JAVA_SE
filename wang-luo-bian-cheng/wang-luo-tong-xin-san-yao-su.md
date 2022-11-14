@@ -41,7 +41,7 @@
 
 ## IP地址操作类-IntetAddress
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Some code
@@ -78,7 +78,7 @@ ip3.isReachable(5000);
 
 * 链接和通信数据的规则
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 传输层的2个常见协议
 
@@ -98,8 +98,20 @@ ip3.isReachable(5000);
 
 ### TCP三次握手确立连接
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### TCP四次挥手断开连接
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### UDP协议
+
+* UDP是一种无连接、不可靠传输的协议
+* 将数据源IP、目的地IP和端口封装成数据包，不需要建立连接
+* 每个数据包的大小限制在64KB内
+* 发送不管对方是否准备好，接收方收到也不确认，所以是不可靠的
+* 可以广播发送，发送数据结束时无需释放资源，开销小，速度快
+
+### UDP协议通信场景
+
+* 语音通话，视频会话等
