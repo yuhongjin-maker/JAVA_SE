@@ -4,7 +4,7 @@
 
 * 常见的通信模式有如下2种形式：Client-Server(CS), Browser/Server(BS)
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 三要素概述
 
@@ -78,7 +78,7 @@ ip3.isReachable(5000);
 
 * 链接和通信数据的规则
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 传输层的2个常见协议
 
