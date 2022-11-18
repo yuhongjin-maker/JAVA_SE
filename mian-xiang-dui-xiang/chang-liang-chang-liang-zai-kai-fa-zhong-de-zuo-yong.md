@@ -5,7 +5,7 @@
 * 常量是使用了public static final修饰的成员变量，必须有初始化值，而且执行的过程中其值不能被改变
 * 常量的作用和好处：可以用于做系统的配置信息，方便程序的维护，同时也能提高可读性
 
-<figure><img src="../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 常量的执行原理
 

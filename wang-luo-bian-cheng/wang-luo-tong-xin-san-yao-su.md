@@ -98,7 +98,7 @@ ip3.isReachable(5000);
 
 ### TCP三次握手确立连接
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### TCP四次挥手断开连接
 
