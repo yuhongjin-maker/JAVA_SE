@@ -194,3 +194,12 @@
 ## 动态代理
 
 * [动态代理](dong-tai-dai-li/page-5.md)
+
+## XML
+
+* [XML](xml/xml.md)
+* [XML解析](xml/xml-jie-xi.md)
+
+## 设计模式
+
+* [设计模式](she-ji-mo-shi/she-ji-mo-shi.md)
