@@ -11,3 +11,9 @@
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-18 at 4.10.22 PM.png" alt=""><figcaption></figcaption></figure>
 
+## 解析注解的技巧
+
+* 注解在哪个成份上，我们就先拿哪个成分对象
+* 比如注解作用成员方法，则要获得该成员方法对应的Method对象，再来拿上面的注解
+* 比如注解作用在类上，则要该类的Class对象，再来拿上面的注解
+* 比如注解作用再成员变量上，则要获得该成员变量对应的Field对象，再来拿上面的注解
