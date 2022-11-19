@@ -193,4 +193,4 @@
 
 ## 动态代理
 
-* [Page 5](dong-tai-dai-li/page-5.md)
+* [动态代理](dong-tai-dai-li/page-5.md)

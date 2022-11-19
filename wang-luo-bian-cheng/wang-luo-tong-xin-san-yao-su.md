@@ -41,7 +41,7 @@
 
 ## IP地址操作类-IntetAddress
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // Some code
