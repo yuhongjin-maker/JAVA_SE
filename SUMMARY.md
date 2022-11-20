@@ -199,7 +199,9 @@
 
 * [XML](xml/xml.md)
 * [XML解析](xml/xml-jie-xi.md)
+* [XML检索技术：Xpath](xml/xml-jian-suo-ji-shu-xpath.md)
 
 ## 设计模式
 
-* [设计模式](she-ji-mo-shi/she-ji-mo-shi.md)
+* [工厂模式](she-ji-mo-shi/gong-chang-mo-shi.md)
+* [装饰模式](she-ji-mo-shi/zhuang-shi-mo-shi.md)

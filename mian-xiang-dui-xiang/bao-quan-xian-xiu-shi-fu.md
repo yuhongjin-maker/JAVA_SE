@@ -21,7 +21,7 @@
 
 * 权限修饰符：有四种作用范围由大到小（private --> 缺省 --> protected --> public ）
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 自己定义成员（方法，成员变量，构造器等）一般需要满足如下要求：
 

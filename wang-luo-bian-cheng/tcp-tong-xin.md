@@ -47,7 +47,7 @@ BufferedReader br = new BUfferedReader(new InputStreamReader(is));
 
 ## 线程池优化
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 线程池优势
 

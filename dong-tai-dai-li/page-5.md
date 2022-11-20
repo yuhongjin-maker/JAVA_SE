@@ -11,7 +11,7 @@
 * Java中代理的代表类是：java.lang.reflect.Porxy
 * Proxy提供了一个静态方法，用于对对象产生一个代理对象返回
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@
 * 开发真正触发对象的方法的执行
 * 回到代理中，由代理负责返回结果给方法的调用者
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 动态代理的优点
 
