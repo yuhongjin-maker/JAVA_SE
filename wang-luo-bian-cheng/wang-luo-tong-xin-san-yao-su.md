@@ -102,7 +102,7 @@ ip3.isReachable(5000);
 
 ### TCP四次挥手断开连接
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### UDP协议
 

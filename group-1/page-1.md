@@ -17,7 +17,7 @@
 * 抽象类可以理解成一个不完整的设计图，一般作为父类，让子类来继承 （基本作用）
 * 当父类知道子类一定要完成某些行为，但是每个子类该行为的实现又不同，于是该父类就把该行为定义成抽象方法的形式，具体实现交给子类去完成，此时这个类就可以声明抽象类
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 特征和注意事项
 

@@ -20,7 +20,7 @@
 * 它的特点和使用与普通类是完全一样的，类有成分它都有，只是位置在别人里面而已
 * 可以直接访问外部类的静态成员，不能直接访问外部类的实例成员
 
-![](<../.gitbook/assets/image (5) (2).png>)
+![](<../.gitbook/assets/image (5) (2) (1).png>)
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@
 * 可以直接访问外部类的静态成员，实例方法中可以直接访问外部类的实例成员&#x20;
 * 在成员内部类中访问所在外部类对象，格式：外部类名.this
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (2).png>)
 
 <figure><img src="../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
